@@ -1,2 +1,5 @@
 NODE JS IS A BACKEND RUN TIME
 
+
+npm i express dotenv ejs mongoose multar cookie-parser express-validator jsonwebtoken bcrypt http-errors
+
